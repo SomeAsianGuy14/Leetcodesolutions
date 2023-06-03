@@ -12,4 +12,5 @@ Current progress 9/50 [====----------------] 18.00%
 6. Alphabet Board Path 1138 1/30/2023
 7. Camelcase Matching 1023 1/31/2023
 8. Shuffle the Array 1470 2/6/2023
-9. Desing Parking System 5/28/2023
+9. Design Parking System 1603 5/28/2023
+10. Shortest Path in Binary Matrix 1091 6/3/2023
