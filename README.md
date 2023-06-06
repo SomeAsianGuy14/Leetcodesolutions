@@ -2,7 +2,7 @@
 All solutions to leetcode problems I did
 
 
-Current progress 10/50 [====----------------] 20.00%
+Current progress 12/50 [=====---------------] 24.00%
 
 1. Delete Columns to Make Sorted 944 1/03/2023
 2. Maximum Ice Cream Bars 1833 1/11/2023 
@@ -14,3 +14,5 @@ Current progress 10/50 [====----------------] 20.00%
 8. Shuffle the Array 1470 2/6/2023
 9. Design Parking System 1603 5/28/2023
 10. Shortest Path in Binary Matrix 1091 6/3/2023
+11. Can Make Arithmetic Progression From Sequence 1502 6/6/2023
+12. Container With Most Water 11 6/6/2023
