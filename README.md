@@ -2,7 +2,7 @@
 All solutions to leetcode problems I did
 
 
-Current progress 13/50 [=====---------------] 26.00%
+Current progress 14/50 [======--------------] 28.00%
 
 1. Delete Columns to Make Sorted 944 1/03/2023
 2. Maximum Ice Cream Bars 1833 1/11/2023 
@@ -17,3 +17,4 @@ Current progress 13/50 [=====---------------] 26.00%
 11. Can Make Arithmetic Progression From Sequence 1502 6/6/2023
 12. Container With Most Water 11 6/6/2023
 13. Average Value of Even Numbers That Are Divisible by Three 2455 6/7/2023
+14. Median of Two Sorted Arrays 4 6/8/2023
