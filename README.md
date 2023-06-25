@@ -2,7 +2,7 @@
 All solutions to leetcode problems I did
 
 
-Current progress 15/50 [======--------------] 30.00%
+Current progress 16/50 [======--------------] 32.00%
 
 1. Delete Columns to Make Sorted 944 1/03/2023
 2. Maximum Ice Cream Bars 1833 1/11/2023 
@@ -19,3 +19,4 @@ Current progress 15/50 [======--------------] 30.00%
 13. Average Value of Even Numbers That Are Divisible by Three 2455 6/7/2023
 14. Median of Two Sorted Arrays 4 6/8/2023
 15. Triangle 120 6/11/2023
+16. Find First and Last Position of Element in Sorted Array 34 6/25/2023
