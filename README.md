@@ -2,7 +2,7 @@
 All solutions to leetcode problems I did
 
 
-Current progress 16/50 [======--------------] 32.00%
+Current progress 17/50 [=======-------------] 34.00%
 
 1. Delete Columns to Make Sorted 944 1/03/2023
 2. Maximum Ice Cream Bars 1833 1/11/2023 
@@ -20,3 +20,4 @@ Current progress 16/50 [======--------------] 32.00%
 14. Median of Two Sorted Arrays 4 6/8/2023
 15. Triangle 120 6/11/2023
 16. Find First and Last Position of Element in Sorted Array 34 6/25/2023
+17. Count and Say 38 6/27/2023
