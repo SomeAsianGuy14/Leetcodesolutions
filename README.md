@@ -2,7 +2,7 @@
 All solutions to leetcode problems I did
 
 
-Current progress 17/50 [=======-------------] 34.00%
+Current progress 18/50 [=======-------------] 36.00%
 
 1. Delete Columns to Make Sorted 944 1/03/2023
 2. Maximum Ice Cream Bars 1833 1/11/2023 
@@ -21,3 +21,4 @@ Current progress 17/50 [=======-------------] 34.00%
 15. Triangle 120 6/11/2023
 16. Find First and Last Position of Element in Sorted Array 34 6/25/2023
 17. Count and Say 38 6/27/2023
+18. Count the Number of Vowel Strings in Range 2586 6/28/2023
