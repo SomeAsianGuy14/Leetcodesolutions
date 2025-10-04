@@ -1,9 +1,6 @@
 # Leetcodesolutions
 All solutions to leetcode problems I did
 
-
-Current progress 18/50 [=======-------------] 36.00%
-
 1. Delete Columns to Make Sorted 944 1/03/2023
 2. Maximum Ice Cream Bars 1833 1/11/2023 
 3. Single Number 136 1/11/2023
